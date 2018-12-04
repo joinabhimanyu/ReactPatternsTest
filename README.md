@@ -1,2 +1,0 @@
-# ReactPatternsTest
-Created with CodeSandbox
